@@ -1,0 +1,13 @@
+1.setup the repo of  username.github.com
+
+2.touch CNAME
+
+the Content is   hiing.net (your domain)
+
+3. make www.hiing.net    CNAME recprd pointing at  hiing.github.com
+
+make  hiing.net  A record pointing to 207.97.227.245
+
+
+
+Do not use a CNAME record with a top-level domain
