@@ -69,6 +69,15 @@ a.orange:hover {
 	text-align: right;
 }
 
+#LeftBottom {
+	width: 800px;
+	margin: 0px auto 20px auto;
+	font-size: 10px;
+	color: #fff;
+	padding: 5px 10px 0px 10px;
+	text-align: left;
+}
+
 /* CLASSes */
 
 .sep {
