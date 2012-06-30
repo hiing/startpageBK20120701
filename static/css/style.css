@@ -21,7 +21,7 @@ body {
 	font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "STHeiti";
 	background-color: #e2e2e2;
 	min-width: 900px;
-	background-image: url("/static/img/tile05.jpg");
+	background-image: url("/static/img/title05.jpg");
 }
 
 a:link, a:visited, a:active {
